@@ -33,10 +33,9 @@ python -m venv env
 ```
 ### 4. Install Dependencies
 ```
-cd HTCC-Research-Conference
+cd Education-Occupational-Projections
 ```
 Install the required external libraries (pandas, numpy, matplotlib, and seaborn) using this git command:
-
 
 ```
 pip install -r requirements.txt
