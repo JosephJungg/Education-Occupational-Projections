@@ -10,7 +10,7 @@ Ensure you have Python (version 3.8 or higher) installed on your system.
 Clone this repository to your local machine using this git command:
 
 ```
-git clone https://github.com/JosephJungg/HTCC-Research-Conference.git
+git clone https://github.com/JosephJungg/Education-Occupational-Projections.git
 ```
 ### 3. Set Up a Virtual Environment (Recommended)
 Creating an isolated virtual environment prevents library version conflicts with other projects on your computer.
